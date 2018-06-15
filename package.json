@@ -1,0 +1,16 @@
+{
+  "name": "simple-wxmp-vueify",
+  "version": "1.0.0",
+  "description": "a simple lib to let you code wechat miniprogram like vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat",
+    "miniprogram",
+    "vueify"
+  ],
+  "author": "qk44077907",
+  "license": "ISC"
+}
